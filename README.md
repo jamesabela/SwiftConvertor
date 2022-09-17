@@ -1,2 +1,2 @@
 # SwiftConvertor
-A tutorial for my students
+A Swift tutorial for my students to enable them to make simple conversion calculators.
